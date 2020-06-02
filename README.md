@@ -40,3 +40,7 @@ The basis for calculating "lbs out of handicap" is explained here:
 [https://answers.betwise.net/1173/working-out-if-a-runner-is-out-of-the-handicap](https://answers.betwise.net/1173/working-out-if-a-runner-is-out-of-the-handicap) 
 
 Please feel free to ask questions by opening a GitHub Issue.
+
+Example showing first race on a card:
+
+![](https://github.com/Betwise-Smartform/ExcelCard/blob/master/Example.png)
